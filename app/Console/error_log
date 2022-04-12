@@ -1,0 +1,4 @@
+[29-Mar-2021 00:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/dotcomlessons/public_html/lms/app/Console/Kernel.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/app/Console/Kernel.php on line 18

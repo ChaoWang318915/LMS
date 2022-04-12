@@ -1,0 +1,4 @@
+[29-Mar-2021 00:17:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/dotcomlessons/public_html/lms/app/Payment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/app/Payment.php on line 7

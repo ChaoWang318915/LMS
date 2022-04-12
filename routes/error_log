@@ -1,0 +1,9 @@
+[29-Mar-2021 00:16:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/dotcomlessons/public_html/lms/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/routes/channels.php on line 14
+[29-Mar-2021 00:16:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Breadcrumbs' not found in /home/dotcomlessons/public_html/lms/routes/breadcrumbs/backend/backend.php:3
+Stack trace:
+#0 /home/dotcomlessons/public_html/lms/routes/breadcrumbs.php(3): require()
+#1 {main}
+  thrown in /home/dotcomlessons/public_html/lms/routes/breadcrumbs/backend/backend.php on line 3

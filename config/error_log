@@ -1,0 +1,128 @@
+[29-Mar-2021 00:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/logging.php on line 19
+[29-Mar-2021 00:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/dotcomlessons/public_html/lms/config/geoip.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/geoip.php on line 56
+[29-Mar-2021 00:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/access.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/access.php on line 12
+[29-Mar-2021 00:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dotcomlessons/public_html/lms/config/sitemap.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/sitemap.php on line 6
+[29-Mar-2021 00:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/mail.php on line 19
+[29-Mar-2021 00:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dotcomlessons/public_html/lms/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/view.php on line 17
+[29-Mar-2021 00:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/queue.php on line 16
+[29-Mar-2021 00:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/cache.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/cache.php on line 20
+[29-Mar-2021 00:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/paypal.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/paypal.php on line 3
+[29-Mar-2021 00:17:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/dotcomlessons/public_html/lms/config/excel.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/excel.php on line 85
+[29-Mar-2021 00:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/dotcomlessons/public_html/lms/config/geoip.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/geoip.php on line 56
+[29-Mar-2021 00:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/dotcomlessons/public_html/lms/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/dompdf.php on line 41
+[29-Mar-2021 00:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/access.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/access.php on line 12
+[29-Mar-2021 00:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/hashing.php on line 32
+[29-Mar-2021 00:17:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dotcomlessons/public_html/lms/config/chatter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/chatter.php on line 5
+[29-Mar-2021 00:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/sections.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/sections.php on line 14
+[29-Mar-2021 00:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/shopping_cart.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/shopping_cart.php on line 11
+[29-Mar-2021 00:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/database.php on line 16
+[29-Mar-2021 00:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/debugbar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/debugbar.php on line 15
+[29-Mar-2021 00:17:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/app.php on line 16
+[29-Mar-2021 00:17:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/dotcomlessons/public_html/lms/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/view.php on line 17
+[29-Mar-2021 00:17:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home/dotcomlessons/public_html/lms/config/excel.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/excel.php on line 85
+[29-Mar-2021 00:17:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function public_path() in /home/dotcomlessons/public_html/lms/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/dompdf.php on line 41
+[29-Mar-2021 00:17:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dotcomlessons/public_html/lms/config/chatter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/chatter.php on line 5
+[29-Mar-2021 00:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dotcomlessons/public_html/lms/config/invoices.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/invoices.php on line 61
+[29-Mar-2021 00:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/logging.php on line 19
+[29-Mar-2021 00:17:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/datatables.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/datatables.php on line 73
+[29-Mar-2021 00:17:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/filesystems.php on line 16
+[29-Mar-2021 00:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app() in /home/dotcomlessons/public_html/lms/config/no-captcha.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/no-captcha.php on line 15
+[29-Mar-2021 00:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/broadcasting.php on line 18
+[29-Mar-2021 00:17:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/cookie-consent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/cookie-consent.php on line 8
+[29-Mar-2021 00:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/dotcomlessons/public_html/lms/config/shopping_cart.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/config/shopping_cart.php on line 11

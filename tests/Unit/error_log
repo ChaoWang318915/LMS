@@ -1,0 +1,4 @@
+[29-Mar-2021 00:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/dotcomlessons/public_html/lms/tests/Unit/UserRepositoryTest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/tests/Unit/UserRepositoryTest.php on line 15

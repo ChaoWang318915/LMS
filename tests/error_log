@@ -1,0 +1,4 @@
+[29-Mar-2021 00:17:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/dotcomlessons/public_html/lms/tests/TestCase.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dotcomlessons/public_html/lms/tests/TestCase.php on line 13

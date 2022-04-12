@@ -1,0 +1,2 @@
+[29-Mar-2021 00:23:48 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home/dotcomlessons/public_html/lms/app/Rules/Auth/ChangePassword.php on line 10
+[29-Mar-2021 00:23:50 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home/dotcomlessons/public_html/lms/app/Rules/Auth/UnusedPassword.php on line 14

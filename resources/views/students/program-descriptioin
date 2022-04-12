@@ -1,0 +1,33 @@
+@extends('backend.layouts.app')
+@section('content')
+   <div class="container">
+        <div class="col-md-12">
+            <div class="card invoice_card"  style="overflow:scroll;min-width:300px;">
+                <div class="card-header bg-primary"><h5 class="text-center ">Rewards Program</h5></div>
+                <div class="card-body ">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                 <th>Rewards Type</th>
+                                 <th>Commission</th>
+                                 <th>Date</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach($rewards as $reward)
+                            <tr>
+                                <td>{{$reward->transaction_type}}</td>
+                                <td>${{number_format($reward->commission,2)}}</td>
+                                <td>{{$reward->date}}</td>
+                            </tr>
+                            @endforeach
+                        </tbody>
+                    </table>
+                    {{$rewards->links()}}
+                </div>
+            </div>
+        </div>
+    </div>
+@endsection
+
+
